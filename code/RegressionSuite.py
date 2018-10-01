@@ -4,7 +4,7 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 
 
-# Class to contain all the regression functions we will be using (OLS, Ridge, Lasso, R^2)
+# Class to contain all the regression functions we will be using (OLS, Ridge, Lasso, R^2) 
 class RegressionSuite:
     # An unregularized regression of slump flow values against the seven explanatory variables.
     # What is the R-squared? Plot a graph evaluating each regression.
