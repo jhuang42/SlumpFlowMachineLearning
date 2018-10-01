@@ -1,4 +1,4 @@
-# Requires Python3, scipy, matplotlib
+# Requires Python3, scipy, matplotlib 
 # Run this program by running python3 slump_flow.py in terminal or running from this python file
 import CleanData as cd
 import RegressionSuite as rs
